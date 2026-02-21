@@ -3,7 +3,7 @@
 ![C#](https://img.shields.io/badge/C%23-12.0+-purple.svg)
 ![.NET](https://img.shields.io/badge/.NET-10.0+-blue.svg)
 ![UI](https://img.shields.io/badge/UI-WinForms-green.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
+![License](https://img.shields.io/badge/license-GPL-green.svg)
 ![Quality](https://img.shields.io/badge/quality-Shitty-red.svg)
 ![Dark Theme](https://img.shields.io/badge/dark%20theme-broken-orange.svg)
 ![Preview](https://img.shields.io/badge/stability-bleeding%20edge-yellow.svg)
