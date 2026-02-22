@@ -56,7 +56,7 @@
 ### Запуск из исходников
 
 ```bash
-git clone https://github.com/yourusername/just-shitty-calculator.git
+git clone https://github.com/DanyaTorvalds/just-shitty-calculator
 cd just-shitty-calculator
 dotnet restore
 dotnet run
